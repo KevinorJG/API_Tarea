@@ -513,23 +513,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JADPA26\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppAPI\\AppAPI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppAPI\\AppAPI.csproj",
       "projectName": "AppAPI",
-      "projectPath": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppAPI\\AppAPI.csproj",
-      "packagesPath": "C:\\Users\\JADPA26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppAPI\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppAPI\\AppAPI.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JADPA26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -543,11 +539,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppCore\\AppCore.csproj": {
-              "projectPath": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppCore\\AppCore.csproj"
+            "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj"
             },
-            "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\Repository\\Repository.csproj"
+            "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Repository\\Repository.csproj"
             }
           }
         }

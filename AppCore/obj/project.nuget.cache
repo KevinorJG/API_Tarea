@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "ck49vDCxwgpcf0TxgAI7i5s++X8m6D26ZC4MXjv5sZ/41MmEYPfgcYBaGPywa7qwinfxyzHBDnKtd8JT2p4oUg==",
+  "dgSpecHash": "4ZdkraSe2FyCQ1YdtRVggxHQ3LDy6kxdCmhqz6bD64KBMaMQIdlpValVUcHOk3Rp+xvozXb4lUNc8yrJhDcJhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppCore\\AppCore.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.4\\microsoft.extensions.configuration.fileextensions.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.4\\microsoft.extensions.configuration.json.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.4\\microsoft.extensions.fileproviders.abstractions.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.4\\microsoft.extensions.fileproviders.physical.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.4\\microsoft.extensions.filesystemglobbing.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\restclient\\3.747.13996\\restclient.3.747.13996.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
-    "C:\\Users\\JADPA26\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.4\\microsoft.extensions.configuration.fileextensions.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.4\\microsoft.extensions.configuration.json.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.4\\microsoft.extensions.fileproviders.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.4\\microsoft.extensions.fileproviders.physical.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.4\\microsoft.extensions.filesystemglobbing.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\restclient\\3.747.13996\\restclient.3.747.13996.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -8,6 +8,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{16A7C661-6ACD-4520-BA41-52D815E838C7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAPI", "AppAPI\AppAPI.csproj", "{9A1A5E48-004B-4D54-A2EA-3AAA23067067}"
+	ProjectSection(ProjectDependencies) = postProject
+		{90DBD21D-E84A-4C7C-808E-88DB2DE7A9FF} = {90DBD21D-E84A-4C7C-808E-88DB2DE7A9FF}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCore", "AppCore\AppCore.csproj", "{D3CF9822-E3D3-4590-A876-D9E326D02557}"
 EndProject

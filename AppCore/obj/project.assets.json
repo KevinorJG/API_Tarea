@@ -401,23 +401,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JADPA26\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppCore\\AppCore.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj",
       "projectName": "AppCore",
-      "projectPath": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppCore\\AppCore.csproj",
-      "packagesPath": "C:\\Users\\JADPA26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\AppCore\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JADPA26\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -431,8 +427,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\JADPA26\\Downloads\\API_Tarea-origen\\OpenWhater\\Domain\\Domain.csproj"
+            "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj"
             }
           }
         }

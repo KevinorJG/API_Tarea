@@ -23,16 +23,17 @@ namespace AppAPI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string city = comboBox1.SelectedItem.ToString();
+            String city = comboBox1.SelectedItem.ToString();
             API.Root clima = services.GetWather(city);
-            REST(clima);
+            String icon = services.GetIcon();
+            REST(clima,icon);
         }
 
-        public void REST(API.Root root)
+        public void REST(API.Root root, string getIcon)
         {
 
             labelCondicion.Text = root.weather[0].main;
-            pictureBox1.ImageLocation = services.GetIcon();
+            pictureBox1.ImageLocation = getIcon;
             labelDetalles.Text = root.weather[0].description;
             labelViento.Text = root.wind.speed;
             labelPresion.Text = root.main.pressure;
