@@ -2,7 +2,6 @@
 {
     partial class Form1
     {
-        string NAME = Form1.texto;
         /// <summary>
         ///  Required designer variable.
         /// </summary>

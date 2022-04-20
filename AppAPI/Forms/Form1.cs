@@ -12,7 +12,7 @@ namespace AppAPI
     {
 
         private IServices<API.Root> services;
-        public static string texto = string.Empty;
+        
         public Form1(IServices<API.Root> services)
         {
             this.services = services;
@@ -22,15 +22,16 @@ namespace AppAPI
         private void Form1_Load(object sender, EventArgs e)
         {
             var root = services.GetLocal_Location();
-            var getIcon = services.GetIconLocal();
+            var getIcon = services.GetIconLocal(); 
             REST(root, getIcon);
         }
 
         public void REST(Task<API.Root> root, Task<string> getIcon)
         {
+            Task.WaitAll(root, getIcon);
 
-            labelCondicion.Text = root.Result.weather[0].main;
             pictureBox1.ImageLocation = getIcon.Result;
+            labelCondicion.Text = root.Result.weather[0].main;
             labelDetalles.Text = root.Result.weather[0].description;
             labelViento.Text = root.Result.wind.speed + " m/s";
             labelPresion.Text = root.Result.main.pressure + "hPa";

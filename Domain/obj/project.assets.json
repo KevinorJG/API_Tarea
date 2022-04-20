@@ -380,23 +380,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JADPA28\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\JADPA28\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JADPA28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\AppCore\\AppCore.csproj": {}
+    "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\AppCore\\AppCore.csproj": {
+    "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\AppCore\\AppCore.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj",
         "projectName": "AppCore",
-        "projectPath": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\AppCore\\AppCore.csproj",
-        "packagesPath": "C:\\Users\\JADPA28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\AppCore\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\AppCore.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\AppCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\JADPA28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\Domain.csproj"
+              "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj"
               }
             }
           }
@@ -79,20 +76,17 @@
         }
       }
     },
-    "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\Domain.csproj": {
+    "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\JADPA28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JADPA28\\Desktop\\Nueva carpeta\\pruebas\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Proyecto\\OpenWhater\\API_Tarea\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\JADPA28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

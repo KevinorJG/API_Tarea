@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Common;
+using Domain.Entities;
 using Domain.Interfaces;
 using Newtonsoft.Json;
 using System;
@@ -11,7 +12,6 @@ namespace Infraestructure.Repository
 {
     public class ApiGetRepository : IModel<API.Root>
     {
-        protected readonly string Key = "c6dafc6d4ae1a2b99efcf3e99a768d37";
         protected string Url = String.Empty;
         protected string city = String.Empty;
 
@@ -20,7 +20,7 @@ namespace Infraestructure.Repository
             try
             {
 
-                return await Task.FromResult("http://openweathermap.org/img/wn/" + GetWather(city).Result.weather[0].icon + ".png");
+                return await Task.FromResult(AppSettings.ApiIcons + GetWather(city).Result.weather[0].icon + ".png");
             }
             catch (IOException)
             {
@@ -36,7 +36,7 @@ namespace Infraestructure.Repository
                 this.city = city;
                 using (WebClient web = new WebClient())
                 {
-                    Url = string.Format("https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + Key + "&lang=es");
+                    Url = string.Format(AppSettings.ApiUrl + city + "&appid=" + AppSettings.Token + "&lang=es");
                     var Json = web.DownloadString(Url);
                     API.Root info = JsonConvert.DeserializeObject<API.Root>(Json);
                     return await Task.FromResult(info);
