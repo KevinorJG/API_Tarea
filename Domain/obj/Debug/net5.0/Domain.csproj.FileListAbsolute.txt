@@ -1,0 +1,48 @@
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\User\Documents\Proyecto\OpenWhater\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\JADPA26\Downloads\API_Tarea-origen\OpenWhater\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\JADPA28\Desktop\Nueva carpeta\pruebas\Domain\obj\Debug\net5.0\Domain.pdb
