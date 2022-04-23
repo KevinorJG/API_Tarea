@@ -1,6 +1,15 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AppAPI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Token" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c6dafc6d4ae1a2b99efcf3e99a768d37</Value>
+    </Setting>
+    <Setting Name="UrlApi" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.openweathermap.org/data/2.5/weather?q=</Value>
+    </Setting>
+    <Setting Name="IconsApi" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://openweathermap.org/img/wn/</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

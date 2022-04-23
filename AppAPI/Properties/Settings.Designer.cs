@@ -22,5 +22,32 @@ namespace AppAPI.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("c6dafc6d4ae1a2b99efcf3e99a768d37")]
+        public string Token {
+            get {
+                return ((string)(this["Token"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://api.openweathermap.org/data/2.5/weather?q=")]
+        public string UrlApi {
+            get {
+                return ((string)(this["UrlApi"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://openweathermap.org/img/wn/")]
+        public string IconsApi {
+            get {
+                return ((string)(this["IconsApi"]));
+            }
+        }
     }
 }
