@@ -58,3 +58,18 @@ C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\AppCore\obj\Debug\net5.0\A
 C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\AppCore\obj\Debug\net5.0\refint\AppCore.dll
 C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.pdb
 C:\Users\User\Documents\Proyecto\OpenWhater\API_Tarea\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\bin\Debug\net5.0\Domain.dll
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\bin\Debug\net5.0\Domain.pdb
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\refint\AppCore.dll
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.pdb
+C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\ref\AppCore.dll
