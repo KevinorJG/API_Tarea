@@ -62,3 +62,11 @@ C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\Infraestructure\obj\
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\Infraestructure\obj\Debug\net5.0\refint\Infraestructure.dll
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\Infraestructure\obj\Debug\net5.0\Infraestructure.pdb
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\Infraestructure\obj\Debug\net5.0\ref\Infraestructure.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Infraestructure\obj\Debug\net5.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Infraestructure\obj\Debug\net5.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Infraestructure\obj\Debug\net5.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Infraestructure\obj\Debug\net5.0\Infraestructure.AssemblyInfo.cs
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Infraestructure\obj\Debug\net5.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Infraestructure\obj\Debug\net5.0\Infraestructure.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Infraestructure\obj\Debug\net5.0\ref\Infraestructure.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Infraestructure\obj\Debug\net5.0\Infraestructure.pdb

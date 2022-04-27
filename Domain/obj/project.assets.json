@@ -380,19 +380,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\CCBB10\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\CCBB10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CCBB10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

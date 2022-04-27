@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Infraestructure\\Infraestructure.csproj": {}
+    "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Infraestructure\\Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Common\\Common.csproj": {
+    "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Common\\obj\\",
+        "projectPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\CCBB10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CCBB10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,17 +75,20 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\Domain.csproj": {
+    "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\CCBB10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CCBB10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,17 +146,20 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Infraestructure\\Infraestructure.csproj": {
+    "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Infraestructure\\Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Infraestructure\\Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Infraestructure\\Infraestructure.csproj",
         "projectName": "Infraestructure",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Infraestructure\\Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Infraestructure\\Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\CCBB10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CCBB10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,11 +173,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Common\\Common.csproj"
+              "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Common\\Common.csproj"
               },
-              "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\Desktop\\Repositorio Github\\API_Tarea\\Domain\\Domain.csproj"
+              "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\CCBB10\\Desktop\\Kevin\\API_Tarea\\Domain\\Domain.csproj"
               }
             }
           }

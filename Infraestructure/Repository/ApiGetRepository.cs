@@ -15,7 +15,8 @@ namespace Infraestructure.Repository
     public class ApiGetRepository : IModel<API.Root>,IAPICities
     {
         protected string Url = String.Empty;
-        protected string city = String.Empty;
+        protected string lat = String.Empty;
+        protected string lon = String.Empty;
 
         public async Task<string> GetIcon()
         {
@@ -31,14 +32,15 @@ namespace Infraestructure.Repository
             }
         }
 
-        public async Task<API.Root> GetWather(string city)
+        public async Task<API.Root> GetWather(string lat, string lon)
         {
             try
             {
-                this.city = city;
+                this.lat = lat;
+                this.lon = lon;
                 using (WebClient web = new WebClient())
                 {
-                    Url = string.Format($"{AppSettings.ApiUrl}{city}&appid={ AppSettings.Token}&lang=es");
+                    Url = string.Format($"{AppSettings.ApiUrl}lat={lat}&lon={lon}&dt=1586468027&appid{ AppSettings.Token}");
                     var Json = web.DownloadString(Url);
                     API.Root info = JsonConvert.DeserializeObject<API.Root>(Json);
                     return await Task.FromResult(info);
@@ -61,10 +63,10 @@ namespace Infraestructure.Repository
             return await GetIcon();
         }
 
-        public List<APICities> GetCities(byte[] byteArray)
+        public List<City> GetCities(byte[] byteArray)
         {
             string json = Encoding.UTF8.GetString(byteArray);
-            return JsonConvert.DeserializeObject<List<APICities>>(json);
+            return JsonConvert.DeserializeObject<List<City>>(json);
         }
 
         //public List<OpenWeatherCities> GetCities()

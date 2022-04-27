@@ -22,3 +22,15 @@ C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\Common\obj\Debug\net
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\Common\obj\Debug\net5.0\refint\Common.dll
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\Common\obj\Debug\net5.0\Common.pdb
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\bin\Debug\net5.0\Common.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\obj\Debug\net5.0\Common.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\Common\obj\Debug\net5.0\Common.pdb

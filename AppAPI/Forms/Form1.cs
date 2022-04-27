@@ -21,9 +21,9 @@ namespace AppAPI
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            var root = services.GetLocal_Location();
-            var getIcon = services.GetIconLocal(); 
-            REST(root, getIcon);
+            //var root = services.GetLocal_Location();
+            //var getIcon = services.GetIconLocal(); 
+            //REST(root, getIcon);
         }
 
         public void REST(Task<API.Root> root, Task<string> getIcon)
@@ -33,10 +33,10 @@ namespace AppAPI
             pictureBox1.ImageLocation = getIcon.Result;
             labelCondicion.Text = root.Result.weather[0].main;
             labelDetalles.Text = root.Result.weather[0].description;
-            labelViento.Text = root.Result.wind.speed + " m/s";
-            labelPresion.Text = root.Result.main.pressure + "hPa";
-            labelTem.Text = ((int)(double.Parse(root.Result.main.temp) - 273.15)).ToString() + "°C";
-            labelCiudad.Text = root.Result.name + " / " + root.Result.sys.country;
+            labelViento.Text = root.Result.hourly[0].wind_speed + " m/s";
+            labelPresion.Text = root.Result.hourly[0].pressure + "hPa";
+            labelTem.Text = ((int)(double.Parse(root.Result.hourly[0].temp) - 273.15)).ToString() + "°C";
+            labelCiudad.Text = root.Result.name + " / " + root.Result.name.country;
             
         }
 
@@ -47,8 +47,9 @@ namespace AppAPI
             {
                 try
                 {
-                    String city = CityTexBox.Text;
-                    Task<API.Root> clima = services.GetWather(city);
+                    String lat = CityTexBox.Text;
+                    String lon = textBoxLong.Text;
+                    Task<API.Root> clima = services.GetWather(lat, lon);
                     Task<string> icon = services.GetIcon();
                     if (clima.IsFaulted)
                     {
@@ -66,6 +67,11 @@ namespace AppAPI
                     throw ;
                 }
             }
+        }
+
+        private void textBoxLong_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

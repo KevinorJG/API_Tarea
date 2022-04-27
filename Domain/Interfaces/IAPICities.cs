@@ -9,6 +9,6 @@ namespace Domain.Interfaces
 {
     public interface IAPICities
     {
-        List<APICities> GetCities(byte[] byteArray);
+        List<City> GetCities(byte[] byteArray);
     }
 }

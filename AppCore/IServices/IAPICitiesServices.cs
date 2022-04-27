@@ -10,7 +10,7 @@ namespace AppCore.IServices
     public interface IAPICitiesServices
     {
 
-        List<APICities> GetCities(byte[] byteArray);
+        List<City> GetCities(byte[] byteArray);
 
     }
 }

@@ -73,3 +73,18 @@ C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\ne
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\refint\AppCore.dll
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.pdb
 C:\Users\Administrator\Desktop\Repositorio Github\API_Tarea\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\bin\Debug\net5.0\AppCore.deps.json
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\bin\Debug\net5.0\AppCore.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\bin\Debug\net5.0\AppCore.pdb
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\bin\Debug\net5.0\Domain.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\bin\Debug\net5.0\Domain.pdb
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.csproj.AssemblyReference.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.csproj.CopyComplete
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+C:\Users\CCBB10\Desktop\Kevin\API_Tarea\AppCore\obj\Debug\net5.0\AppCore.pdb

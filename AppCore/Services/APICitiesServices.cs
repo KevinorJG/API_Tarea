@@ -18,7 +18,7 @@ namespace AppCore.Services
             this.clientServices = clientServices;
         }
 
-        public List<APICities> GetCities(byte[] byteArray)
+        public List<City> GetCities(byte[] byteArray)
         {
            return clientServices.GetCities(byteArray);
         }

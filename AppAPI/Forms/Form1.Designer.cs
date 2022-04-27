@@ -43,6 +43,7 @@
             this.CityTexBox = new System.Windows.Forms.TextBox();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.labelCiudad = new System.Windows.Forms.Label();
+            this.textBoxLong = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
@@ -191,6 +192,14 @@
             this.labelCiudad.TabIndex = 19;
             this.labelCiudad.Text = "ciudad";
             // 
+            // textBoxLong
+            // 
+            this.textBoxLong.Location = new System.Drawing.Point(410, 12);
+            this.textBoxLong.Name = "textBoxLong";
+            this.textBoxLong.Size = new System.Drawing.Size(142, 23);
+            this.textBoxLong.TabIndex = 20;
+            this.textBoxLong.TextChanged += new System.EventHandler(this.textBoxLong_TextChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -198,6 +207,7 @@
             this.BackgroundImage = global::AppAPI.Properties.Resources.Fondo;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(657, 188);
+            this.Controls.Add(this.textBoxLong);
             this.Controls.Add(this.labelCiudad);
             this.Controls.Add(this.CityTexBox);
             this.Controls.Add(this.labelCondicion);
@@ -241,5 +251,6 @@
         private System.Windows.Forms.TextBox CityTexBox;
         private System.Windows.Forms.ErrorProvider errorProvider1;
         private System.Windows.Forms.Label labelCiudad;
+        private System.Windows.Forms.TextBox textBoxLong;
     }
 }
