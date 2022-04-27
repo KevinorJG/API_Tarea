@@ -15,6 +15,8 @@ namespace Common
         public static string Token { get => ConfigurationManager.AppSettings.Get("Token"); }
         public static string ApiIcons { get => ConfigurationManager.AppSettings.Get("ApiIcons"); }
 
+      
+
 
     }
 }
